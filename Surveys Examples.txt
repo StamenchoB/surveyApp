@@ -1,0 +1,20 @@
+
+--Demographic Survey Test(Momentalno neaktiven)
+
+http://localhost:8500/SurveyApp/infoPage.cfm?S=F9DB1A822B29CA819B09DC5C7DCAB9A5
+
+--Employee Engagement
+
+http://localhost:8500/SurveyApp/infoPage.cfm?S=78DEC78A60583758BD5419A4E08E2958
+
+--Customer Satisfaction
+
+http://localhost:8500/SurveyApp/infoPage.cfm?S=296955B6767D4E2B0ECFD92734C99C7A
+
+--Hotel Feedback
+
+http://localhost:8500/SurveyApp/infoPage.cfm?S=56007DE76BBCA5BED585E4E976F618CF
+
+--University/Faculty Satisfaction
+
+http://localhost:8500/SurveyApp/infoPage.cfm?S=3F46CB2D301A8BD75259738969779468
