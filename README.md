@@ -57,4 +57,6 @@ For deployment on live system you'll need the full version of Coldfusion and MSS
 
 * **Stamencho Bogdanovski** - *Initial work* - [StamenchoB](https://github.com/StamenchoB)
 
+## Additional Info
 
+For using,tweaking this project or its files for your own purposes you'll need to get an approval from the Author.
